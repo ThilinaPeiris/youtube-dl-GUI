@@ -1,2 +1,3 @@
 # youtube-dl-GUI
-#A video downloader #A graphical user interface for youtube-dl
+A video downloader 
+Graphical user interface for youtube-dl
